@@ -7,7 +7,5 @@ Contributed to the development of intricate KPIs and dynamic, interactive PowerB
 Collaborate with the stakeholders to understand their requirements and translated them into effective PowerBI solutions.
 Ardently involved in creating data model , implementing data transformation and calculations using DAX for accurate analysis and reporting.
 
-Overview about multi products and trends of sales and reach of customers work of product analysis attributes Also Contributed to the development of intricate KPIs and dynamic, interactive PowerBI interface and Ardently involved in creating data model , implementing data transformation and calculations using DAX for accurate analysis and reporting.
-
 Canva PDF Link- https://drive.google.com/file/d/1Bg0UMlmK6l3lgNbhwCLPkg8HOD3TZuiy/view?usp=drivesdk
 PBIX - https://drive.google.com/file/d/1A_ET_sHMn2k5oyg4KCKHcmmUj8XSgrZZ/view?usp=drivesdk
